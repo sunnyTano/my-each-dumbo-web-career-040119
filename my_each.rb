@@ -2,9 +2,6 @@ def my_each # put argument(s) here
   # code here
 end
 
-# require_relative 'spec_helper'
-# require 'pry'
-
 # describe "my_each" do
 #   file = File.read('./my_each.rb')
 
