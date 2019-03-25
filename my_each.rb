@@ -103,4 +103,4 @@ end
 #       expect(ta.kind_of?(String)).to eq(true)
 #     end
 #   end
-end
+
